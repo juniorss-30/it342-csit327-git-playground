@@ -1,0 +1,4 @@
+- 3rd Year / G7
+- Favorite Language: Java, Python
+- One Git Tip Learned: Dont push something if you dont know anything.
+- GitHub: @juniorss-30
