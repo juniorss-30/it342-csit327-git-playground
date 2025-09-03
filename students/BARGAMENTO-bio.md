@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G7
+- Favorite Language: C and Java
+- One Git Tip Learned: Push everything
+- GitHub: @juniorss-30
